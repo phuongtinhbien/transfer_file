@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Transfer File</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>transfer_file</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+    <string>This app needs camera access to scan QR codes</string>
+    <key>NSContactsUsageDescription</key>
+    <string>Sử dụng để tạo địa chỉ giao hàng nhanh chóng cho bạn.</string>
+    <key>NSLocalNetworkUsageDescription</key>
+    <string>Sử dụng để kiểm tra dữ liệu nhận được từ server</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Hiển thị vị trí hiện tại của bạn trên bản đồ và tính khoảng cách giao hàng đến bạn</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Hiển thị vị trí hiện tại của bạn trên bản đồ và tính khoảng cách giao hàng đến bạn</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Hiển thị vị trí hiện tại của bạn trên bản đồ và tính khoảng cách giao hàng đến bạn</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Hiển thị vị trí hiện tại của bạn trên bản đồ và tính khoảng cách giao hàng đến bạn</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Dùng để chụp / quay lại món ăn hoặc đánh giá sản phẩm</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Dùng để chọn ảnh gửi đánh giá cho sản phầm đã mua</string>
+    <key>NSUserTrackingUsageDescription</key>
+    <string>Hệ thống sẽ đề xuất những sản phẩm phù hợp dựa trên thông tin bạn đã cung cấp</string>
+</dict>
+</plist>
